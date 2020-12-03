@@ -39,7 +39,6 @@ def find_two(report: List[int]) -> List[int]:
 
 
 def find_three(report: List[int]) -> List[int]:
-    default: List[int] = []
     for row in report:
         for i in range(1, len(report)):
             for j in range(2, len(report)):
