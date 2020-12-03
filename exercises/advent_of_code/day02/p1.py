@@ -5,7 +5,6 @@ Part 1: Find the amount of valid passwords.
 __author__ = "matthewberry5"
 
 
-from os import close
 from typing import List, Dict
 import sys
 
