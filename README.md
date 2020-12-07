@@ -1,5 +1,5 @@
-# personal
-Repository for personal projects. 
+# General
+Repository for personal enhancement and learning.
 
 ## Technology
 All files in this repository are created using 
