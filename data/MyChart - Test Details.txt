@@ -1,0 +1,73 @@
+Print this page <javascript:window.print();> | Close this window
+<javascript:window.close();>
+Name: Matthew Berry | DOB: 12/17/2000 | MRN: E10251349 | PCP: No Pcp
+Assigned
+
+
+CORONAVIRUS (COVID)SARS COV 2 - Details
+
+Printer friendly page--New window will open
+
+About this test
+
+Details
+Past Results
+Graph of Past Results
+
+
+    Study Result
+
+
+      Narrative
+
+Performed at: 01 - LabCorp Burlington
+1447 York Court, Burlington, NC 272153361
+Lab Director: Sanjai Nagendra MD, Phone: 8007624344
+
+
+    Component Results
+
+Component	Your Value	Standard Range	Flag
+SARS-CoV-2, NAA 	Your ValueNot Detected	Standard RangeNot DetectedNot
+Detected 	
+Testing was performed using the cobas(R) SARS-CoV-2 test.
+This nucleic acid amplification test was developed and its performance
+characteristics determined by LabCorp Laboratories. Nucleic acid
+amplification tests include PCR and TMA. This test has not been FDA
+cleared or approved. This test has been authorized by FDA under an
+Emergency Use Authorization (EUA). This test is only authorized for
+the duration of time the declaration that circumstances exist
+justifying the authorization of the emergency use of in vitro
+diagnostic tests for detection of SARS-CoV-2 virus and/or diagnosis
+of COVID-19 infection under section 564(b)(1) of the Act, 21 U.S.C.
+360bbb-3(b) (1), unless the authorization is terminated or revoked
+sooner.
+When diagnostic testing is negative, the possibility of a false
+negative result should be considered in the context of a patient's
+recent exposures and the presence of clinical signs and symptoms
+consistent with COVID-19. An individual without symptoms
+of COVID-19
+and who is not shedding SARS-CoV-2 virus would expect to have a
+negative (not detected) result in this assay.
+
+
+    General Information
+
+Ordered by Lauri Bausch, FNP-BC
+
+Collected on 01/07/2021 11:30 AM from Nasopharyngeal (Swab)
+
+Resulted on 01/09/2021 7:36 AM
+
+Result Status: Final result
+
+
+        This test result has been released by an automatic process.
+
+Back to the Test Results page
+Interoperability Guide
+<https://open.epic.com/Tutorial/PatientAuthentication?whereFrom=MyChart>Terms
+& Conditions
+<https://mychart.ochin.org/mychartKintegra/inside.asp?mode=termpage>Default
+Theme <#>High Contrast Theme <#>
+MyChart® licensed from Epic Systems Corporation© 1999 - 2020
